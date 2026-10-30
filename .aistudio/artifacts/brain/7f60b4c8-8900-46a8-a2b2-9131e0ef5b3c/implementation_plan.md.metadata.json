@@ -1,0 +1,6 @@
+{
+  "summary":  "Rencana perampingan dan optimasi performa maksimal Kafelas Laundry:\n1. Penghapusan file arsip biner besar (dist.zip, kflsagnd-kasir-pc.zip, logo .af, dan aset demo lama).\n2. Penghapusan halaman statis eksternal (landing.html, booking.html, profil.html, tutorial.html) untuk memusatkan aplikasi 100% pada Kasir POS Laundry.\n3. Penghapusan dependency visual berat (D3, Motion, Canvas-Confetti) dan migrasi ke tabel data angka ringkas tabular-nums serta mikro-indikator CSS native.\n4. Optimasi bundle Vite, Service Worker caching, dan pembersihan denylist navigasi.",
+  "updatedAt":  "2026-10-30T06:15:26.817171292Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
